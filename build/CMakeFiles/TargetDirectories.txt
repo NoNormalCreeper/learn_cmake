@@ -1,0 +1,4 @@
+/home/rikka/learn_cmake-1/build/CMakeFiles/hw.dir
+/home/rikka/learn_cmake-1/build/CMakeFiles/exec.dir
+/home/rikka/learn_cmake-1/build/CMakeFiles/edit_cache.dir
+/home/rikka/learn_cmake-1/build/CMakeFiles/rebuild_cache.dir

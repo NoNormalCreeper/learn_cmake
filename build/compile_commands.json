@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/rikka/learn_cmake-1/build",
+  "command": "/usr/bin/g++ -Dhw_EXPORTS -I/home/rikka/learn_cmake-1/../src -g -fPIC -o CMakeFiles/hw.dir/src/hw.o -c /home/rikka/learn_cmake-1/src/hw.cpp",
+  "file": "/home/rikka/learn_cmake-1/src/hw.cpp"
+},
+{
+  "directory": "/home/rikka/learn_cmake-1/build",
+  "command": "/usr/bin/g++  -I/home/rikka/learn_cmake-1/../src -g -o CMakeFiles/exec.dir/main.o -c /home/rikka/learn_cmake-1/main.cpp",
+  "file": "/home/rikka/learn_cmake-1/main.cpp"
+}
+]

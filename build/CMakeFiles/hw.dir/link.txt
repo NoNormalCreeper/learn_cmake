@@ -1,0 +1,1 @@
+/usr/bin/g++ -fPIC -g -shared -Wl,-soname,libhw.so -o libhw.so CMakeFiles/hw.dir/src/hw.o 

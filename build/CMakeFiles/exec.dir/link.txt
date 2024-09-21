@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -rdynamic CMakeFiles/exec.dir/main.o -o exec  -Wl,-rpath,/home/rikka/learn_cmake-1/build libhw.so 
